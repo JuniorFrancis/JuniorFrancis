@@ -1,7 +1,6 @@
-<h3>Hi, i'm Junior. <br/> I know, it's just he beginning for me, but i'm already very excited for all this code world. <br/> So, here i put all my animation and i hope you like it.</h3>
+<h3>Hi, i'm Junior! </h3>
 
 ##
-
 <div>
   <a href="https://github.com/JuniorFrancis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorFrancis&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>

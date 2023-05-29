@@ -1,27 +1,13 @@
-<h3>Hi, i'm Junior! </h3>
+<h3>Hey there! :wave: </h3>
+
+<p> As a Developer, I've worked with Back-end, Full stack and DevOps. My main technology is Java with Spring ecosystem but I also work with work with PHP with Laravel and Symphony too and some other technologies. </p>
 
 ##
-<div>
-  <a href="https://github.com/JuniorFrancis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorFrancis&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorFrancis&layout=compact&langs_count=7&theme=graywhite"/>
-</div>
   
 <div style="display: inline_block; border: grey 2px"><br>
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg">
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doctrine/doctrine-line-wordmark.svg">
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-</div>
+
+  [![My Skills](https://skillicons.dev/icons?i=spring,java,gradle,aws,docker,linux,gcp,mysql,react,php,wordpress,git)](https://skillicons.dev)
+ </div>
 
 </br>
 <div> 

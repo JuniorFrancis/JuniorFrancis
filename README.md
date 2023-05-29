@@ -1,6 +1,6 @@
 <h3>Hey there! :wave: </h3>
 
-<p> As a Developer, I've worked with Back-end, Full stack and DevOps. My main technology is Java with Spring ecosystem but I also work with work with PHP with Laravel and Symphony too and some other technologies. </p>
+<p> As a Developer, I've worked with Back-end, Full stack and DevOps. My main technology is Java with Spring ecosystem but I also work with PHP with Laravel and Symphony too and some other technologies. </p>
 
 ##
   
